@@ -1,0 +1,4 @@
+ping3>=5.1.0
+elasticsearch[async]>=8.0.0,<9.0.0
+redis[asyncio]>=5.0.0
+python-dotenv>=1.0.0
